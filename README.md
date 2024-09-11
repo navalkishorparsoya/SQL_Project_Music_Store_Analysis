@@ -9,5 +9,7 @@ This project is for beginners and will teach you how to analyze the music playli
 
 # Schema
 - Music Store Database
+
+  
    ![MusicDatabaseSchema](https://github.com/user-attachments/assets/21f8228f-820a-4808-9164-00574057ce3a)
 
